@@ -1,0 +1,15 @@
+# Documentation files (redundant with README.md)
+00-START-HERE.txt
+INSTALL.txt
+INSTALLATION-GUIDE.txt
+SUMMARY.txt
+QUICKSTART.sh
+*.rtf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs (generated at runtime on server)
+*.log
+*.txt.bak
